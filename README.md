@@ -33,7 +33,7 @@
 - **Ngôn ngữ**: [Python](https://www.python.org/)
 - **Framework**: [FastAPI](https://fastapi.tiangolo.com/) (High performance, easy to learn)
 - **AI Model**: [Google Gemini API](https://ai.google.dev/) (Gemini 2.5 Flash)
-- **Server**: Uvicorn
+- **Server**: [Uvicorn] (https://uvicorn.dev/)
 
 ### Frontend (Client)
 - **Core**: HTML5, CSS3 (Vanilla), JavaScript (ES6+)
