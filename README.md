@@ -76,6 +76,3 @@ Sử dụng **Live Server** (VS Code Extension) hoặc mở trực tiếp file `
 
 ## 🤝 Đóng góp (Contributing)
 Mọi đóng góp đều được hoan nghênh! Hãy tạo Pull Request hoặc mở Issue nếu bạn tìm thấy lỗi.
-
-## � License
-Dự án này được phát hành dưới giấy phép MIT.
