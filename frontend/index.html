@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>💪 Huấn Luyện Viên AI - PT & Dinh Dưỡng</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="app-shell">
+    <header>
+      <div class="header-content">
+        <img src="img/ly_duc_ava.jpg" alt="Lý Đức" class="avatar" />
+        <div class="header-text">
+          <h1>💪 PT & Dinh Dưỡng Lý Đức 2.0 🏋️‍♂️</h1>
+          <p>🤖 Trợ lý AI chuyên về thể hình & dinh dưỡng | Hỏi đáp chuyên sâu, phân tích hình ảnh bữa ăn 🥗</p>
+        </div>
+      </div>
+      <button id="clearHistoryBtn" class="ghost-btn">Xóa lịch sử</button>
+    </header>
+
+    <main>
+      <section id="chatContainer" class="chat-container"></section>
+    </main>
+
+    <div class="bottom-bar">
+      <label class="file-upload">
+        <input type="file" id="imageInput" accept="image/*" />
+        📷 Ảnh bữa ăn
+      </label>
+      <textarea id="userInput" placeholder="Nhập câu hỏi, chia sẻ thông tin hoặc yêu cầu kế hoạch..."
+        rows="2"></textarea>
+      <button id="sendBtn" class="primary-btn">Gửi</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
