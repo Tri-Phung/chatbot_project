@@ -13,8 +13,8 @@
 
 ### 🤖 1. Tư vấn tập luyện thông minh (Smart Workout Planning)
 - **Cá nhân hóa tối đa**: Xây dựng lịch tập dựa trên mục tiêu (tăng cơ/giảm mỡ), kinh nghiệm, dụng cụ sẵn có và quỹ thời gian của bạn.
-- **Hội thoại theo ngữ cảnh (Stateful Context)**: Bot ghi nhớ thông tin bạn đã cung cấp, không hỏi lại những điều thừa thãi.
-- **Logic chống lặp (Anti-Loop)**: Hệ thống thông minh tự động trích xuất dữ liệu từ câu trả lời phức tạp của người dùng.
+- **Hội thoại theo ngữ cảnh (Stateful Context)**: Bot ghi nhớ và tư vấn chi tiết dựa trên thông tin bạn đã cung cấp.
+- **Giảm hallucination, tránh AI đoán mò**: Hệ thống thông minh tự động trích xuất dữ liệu từ câu trả lời phức tạp của người dùng, nếu có thông tin nào chưa được làm rõ thì sẽ tự động hỏi người dùng để xác nhận.
 
 ### 🥗 2. Phân tích dinh dưỡng qua ảnh (AI Meal Analysis)
 - **Nhận diện món ăn**: Chỉ cần tải lên ảnh bữa ăn, AI sẽ nhận diện các món ăn.
@@ -23,7 +23,6 @@
 
 ### 🎨 3. Giao diện hiện đại (Modern UI/UX)
 - **Dark Mode Premium**: Thiết kế tối màu sang trọng với tông xanh neon (Health & Fitness).
-- **Responsive Design**: Tương thích hoàn hảo trên cả máy tính và điện thoại di động.
 - **Hiệu ứng mượt mà**: Typing indicator, message animations, và các hiệu ứng chuyển động tinh tế.
 
 ---
